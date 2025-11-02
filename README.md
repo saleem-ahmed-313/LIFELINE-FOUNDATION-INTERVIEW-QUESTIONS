@@ -76,7 +76,7 @@ If you **crack our interview**, you’ll receive a **scholarship** 🏆.
 
 
 
-# 🎓 DSA Questions — 4th Year Engineering / BCA / BSc Students
+# 🎓 DSA Questions — 4th Year Engineering / BCA / MCA / MSC / BSc Students
  ⚡ **Important Note:**  
  - All **2nd Year questions (15)** and **3rd Year questions (10)** are **also included**.  
  - You must be thorough with all previous questions before attempting this set.  
