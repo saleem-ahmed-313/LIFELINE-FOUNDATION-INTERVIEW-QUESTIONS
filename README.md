@@ -96,3 +96,39 @@ This section focuses on **Medium-Level** Data Structure and Algorithm problems t
 ---
 
 
+
+# 🎓 DSA Questions — 4th Year Engineering / BCA / BSc Students
+
+Welcome to the **4th Year DSA Practice Section** for Scholarship Interviews.  
+This section includes **Medium to Hard Level** Data Structure and Algorithm problems —  
+designed to reflect **real-world interview challenges** faced in top tech companies.
+
+---
+
+
+---
+
+> ⚡ **Important Note:**  
+> - All **2nd Year questions (15)** and **3rd Year questions (10)** are **also included**.  
+> - You must be thorough with all previous questions before attempting this set.  
+> - The questions below are **advanced-level** and test recursion, graph traversal, and hashing concepts.
+
+---
+
+## 🧠 Additional 10 Questions (Medium–Hard Level)
+
+| # | Question | Description | Practice Link |
+|---|-----------|--------------|----------------|
+| 1 | **Two Sum** | Find two numbers in an array that add up to a target value using HashMap. | [LeetCode – Two Sum](https://leetcode.com/problems/two-sum/) |
+| 2 | **Valid Anagram** | Check if two strings are anagrams of each other using HashMap. | [LeetCode – Valid Anagram](https://leetcode.com/problems/valid-anagram/) |
+| 3 | **DFS Traversal (Graph)** | Implement Depth First Search (DFS) on a graph using recursion. | [GFG – DFS Traversal](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/) |
+| 4 | **BFS Traversal (Graph)** | Implement Breadth First Search (BFS) on a graph using a queue. | [GFG – BFS Traversal](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/) |
+| 5 | **Climbing Stairs (Recursion + DP)** | Find number of distinct ways to climb `n` stairs (Fibonacci pattern). | [LeetCode – Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |
+| 6 | **Merge Two Linked Lists** | Merge two sorted linked lists into one sorted list. | [LeetCode – Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |
+| 7 | **Longest Substring Without Repeating Characters** | Find the length of the longest substring without repeating characters. | [LeetCode – Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| 8 | **Maximum Depth of Binary Tree (Recursion)** | Compute the maximum depth of a binary tree recursively. | [LeetCode – Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
+| 9 | **Detect Cycle in Linked List** | Determine if a linked list contains a cycle using fast & slow pointers. | [LeetCode – Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) |
+| 10 | **Number of Islands (DFS/BFS)** | Count the number of islands in a 2D grid using DFS or BFS traversal. | [LeetCode – Number of Islands](https://leetcode.com/problems/number-of-islands/) |
+
+---
+
