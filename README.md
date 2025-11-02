@@ -62,21 +62,37 @@ Each question focuses on strengthening your foundation in **Data Structures and 
 
 ---
 
-## 🎯 Goal
+# 🎓 DSA Questions — 3rd Year Engineering / BCA / BSc Students
 
-To help students practice essential DSA concepts that improve:
-- Logical thinking  
-- Time & space complexity understanding  
-- Confidence in coding interviews  
-
-If you **crack our interview**, you will be **awarded a scholarship** 🏆.  
+Welcome to the **3rd Year DSA Practice Section** for Scholarship Interviews.  
+This section focuses on **Medium-Level** Data Structure and Algorithm problems that reflect the expectations of **corporate-level technical interviews**.
 
 ---
 
-## 💬 Contact
 
-For registration or queries:  
-📧 **[add-your-email@example.com]**
 
+> ⚡ **Important Note:**  
+> All **2nd Year Engineering questions** are **also included** for 3rd Year students.  
+> You are expected to be comfortable with all **15 questions from the 2nd Year list**,  
+> plus the **10 new questions** listed below.
 
 ---
+
+## 🧠 Additional 10 Questions (Medium Level)
+
+| # | Question | Description | Practice Link |
+|---|-----------|--------------|----------------|
+| 1 | **Find Missing Number in Array** | Given `n` numbers in range `1...n+1`, find the missing one. | [LeetCode – Missing Number](https://leetcode.com/problems/missing-number/) |
+| 2 | **Move Zeroes to End** | Move all zeros in an array to the end while maintaining relative order. | [LeetCode – Move Zeroes](https://leetcode.com/problems/move-zeroes/) |
+| 3 | **Merge Two Sorted Arrays** | Merge two sorted arrays into one sorted array without using extra sort. | [LeetCode – Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |
+| 4 | **Count Frequency of Elements** | Count how many times each element appears in an array. | [GFG – Count Frequencies](https://www.geeksforgeeks.org/count-frequencies-of-array-elements-in-range-1-to-n/) |
+| 5 | **Reverse a Linked List** | Reverse a singly linked list iteratively or recursively. | [LeetCode – Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |
+| 6 | **Find Middle Element of Linked List** | Return the middle node of a linked list. | [LeetCode – Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) |
+| 7 | **Valid Parentheses** | Check if parentheses in a string are balanced using a stack. | [LeetCode – Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |
+| 8 | **Maximum Subarray Sum (Kadane’s Algorithm)** | Find contiguous subarray with the maximum sum. | [LeetCode – Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |
+| 9 | **Remove Duplicates from Sorted Array** | Remove duplicates in-place from a sorted array. | [LeetCode – Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| 10 | **Find Intersection of Two Arrays** | Return the intersection of two integer arrays. | [LeetCode – Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) |
+
+---
+
+
