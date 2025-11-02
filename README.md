@@ -12,7 +12,7 @@ We focus on **understanding**, not memorization.
 You can **code in any language** — Python, C, C++, Java, or JavaScript.  
 What matters most is your **approach**, **clarity**, and **problem-solving skill**.
 
-### Some questions changes every month 
+### 🚨 Some questions changes every month 
 Take snapshot of question before coming to the interview .
 
 
