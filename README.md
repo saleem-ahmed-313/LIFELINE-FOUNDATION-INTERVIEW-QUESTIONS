@@ -8,37 +8,24 @@ If you fail the interview, **no second attempt** will be given. Prepare well bef
 Don’t memorize code — you must **write and explain** the logic in your own words.  
 We focus on **understanding**, not memorization.
 
-### 💼 Corporate-Style Interview  
-The interview format is similar to **corporate technical interviews**,  
-but the **difficulty level** is **Easy to Medium** for 2nd-year students.
-
 ### 💻 Language Flexibility  
 You can **code in any language** — Python, C, C++, Java, or JavaScript.  
 What matters most is your **approach**, **clarity**, and **problem-solving skill**.
 
----
+### Some questions changes every month 
+Take snapshot of question before coming to the interview .
 
-## 🎯 Objective
-To assess your ability to think logically, implement efficient algorithms, and explain your reasoning — just like real-world software engineers do.
+
+---
 
 If you **crack our interview**, you’ll receive a **scholarship** 🏆.
 
-
-
-
-
-
-
-
+---
 # 🎓 DSA Questions — 2nd Year Engineering / BCA / BSc Students
 
-This section contains **15 Easy-Level DSA Questions** designed for **2nd Year** students (CSE, BCA, and BSc) preparing for the **Scholarship Interview**.  
-
-Each question focuses on strengthening your foundation in **Data Structures and Algorithms** — similar to what’s expected in real technical interviews.
+ **15 Easy-Level DSA Questions**  for **2nd Year** students (CSE, BCA, and BSc) .  
 
 ---
-
-
 
 ## 🧠 Question List (Easy Level)
 
@@ -63,18 +50,10 @@ Each question focuses on strengthening your foundation in **Data Structures and 
 ---
 
 # 🎓 DSA Questions — 3rd Year Engineering / BCA / BSc Students
-
-Welcome to the **3rd Year DSA Practice Section** for Scholarship Interviews.  
-This section focuses on **Medium-Level** Data Structure and Algorithm problems that reflect the expectations of **corporate-level technical interviews**.
-
----
-
-
-
-> ⚡ **Important Note:**  
-> All **2nd Year Engineering questions** are **also included** for 3rd Year students.  
-> You are expected to be comfortable with all **15 questions from the 2nd Year list**,  
-> plus the **10 new questions** listed below.
+ ⚡ **Important Note:**  
+ All **2nd Year Engineering questions** are **also included** for 3rd Year students.  
+ You are expected to be comfortable with all **15 questions from the 2nd Year list**,  
+ plus the **10 new questions** listed below.
 
 ---
 
@@ -98,21 +77,11 @@ This section focuses on **Medium-Level** Data Structure and Algorithm problems t
 
 
 # 🎓 DSA Questions — 4th Year Engineering / BCA / BSc Students
-
-Welcome to the **4th Year DSA Practice Section** for Scholarship Interviews.  
-This section includes **Medium to Hard Level** Data Structure and Algorithm problems —  
-designed to reflect **real-world interview challenges** faced in top tech companies.
-
+ ⚡ **Important Note:**  
+ - All **2nd Year questions (15)** and **3rd Year questions (10)** are **also included**.  
+ - You must be thorough with all previous questions before attempting this set.  
+- The questions below are **advanced-level** and test recursion, graph traversal, and hashing concepts.
 ---
-
-
----
-
-> ⚡ **Important Note:**  
-> - All **2nd Year questions (15)** and **3rd Year questions (10)** are **also included**.  
-> - You must be thorough with all previous questions before attempting this set.  
-> - The questions below are **advanced-level** and test recursion, graph traversal, and hashing concepts.
-
 ---
 
 ## 🧠 Additional 10 Questions (Medium–Hard Level)
@@ -131,4 +100,6 @@ designed to reflect **real-world interview challenges** faced in top tech compan
 | 10 | **Number of Islands (DFS/BFS)** | Count the number of islands in a 2D grid using DFS or BFS traversal. | [LeetCode – Number of Islands](https://leetcode.com/problems/number-of-islands/) |
 
 ---
+
+
 
