@@ -17,6 +17,19 @@ Take snapshot of question before coming to the interview .
 
 
 ---
+## 🏦 Bank Account Details of College / Institute
+
+🎯 **Important Note:**  
+The **scholarship amount will be transferred directly to the official college/institute bank account**.  
+**No direct transfer** will be made to the student’s personal account.
+
+| # | Detail | Information |
+|---|---------|--------------|
+| 1 | 🏛️ **Account Name** | *[Enter Official College / Institution Name]* |
+| 2 | 🏦 **Bank Name** | *[Enter Bank Name]* |
+| 3 | 🔢 **Account Number** | *[Enter Account Number]* |
+| 4 | 🏧 **IFSC Code** | *[Enter IFSC Code]* |
+| 5 | 📍 **Branch Name** | *[Enter Branch Location]* |
 
 If you **crack our interview**, you’ll receive a **scholarship** 🏆.
 
