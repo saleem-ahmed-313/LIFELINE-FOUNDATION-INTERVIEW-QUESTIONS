@@ -25,11 +25,11 @@ The **scholarship amount will be transferred directly to the official college/in
 
 | # | Detail | Information |
 |---|---------|--------------|
-| 1 | 🏛️ **Account Name** | *[Enter Official College / Institution Name]* |
-| 2 | 🏦 **Bank Name** | *[Enter Bank Name]* |
-| 3 | 🔢 **Account Number** | *[Enter Account Number]* |
-| 4 | 🏧 **IFSC Code** | *[Enter IFSC Code]* |
-| 5 | 📍 **Branch Name** | *[Enter Branch Location]* |
+| 1 | 🏛️ **Account Name** | *[]* |
+| 2 | 🏦 **Bank Name** | *[]* |
+| 3 | 🔢 **Account Number** | *[]* |
+| 4 | 🏧 **IFSC Code** | *[]* |
+| 5 | 📍 **Branch Name** | *[]* |
 
 If you **crack our interview**, you’ll receive a **scholarship** 🏆.
 
