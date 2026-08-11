@@ -115,4 +115,4 @@ If you **crack our interview**, you’ll receive a **scholarship** 🏆.
 
 
 
-content should be same but improve the structure and aesthetic of it . It should look like page from techology from future with animations 
+
